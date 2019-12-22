@@ -1,2 +1,2 @@
 # FoundationAnalytics
-Mining CSV PGA dataset from Kaggle
+Analytics Projects from Master's Program
